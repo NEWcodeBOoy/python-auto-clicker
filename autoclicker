@@ -82,7 +82,7 @@ def click_loop(interval, clicks, button_name, click_type, follow_cursor):
 class AutoClickerApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("BRANONS AutoClicker")
+        self.title("AutoClicker")
 
 
         try:
